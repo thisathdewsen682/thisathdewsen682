@@ -1,3 +1,6 @@
+Who Am I
+
+Hello there! I'm Thisath Dewsen, a passionate software developer on an exciting journey to turn lines of code into meaningful solutions. My love for crafting elegant and efficient software has driven me to explore the intricate realms of programming.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thisathdewsen77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thisath-dewsen-928938221) 
